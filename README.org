@@ -1,0 +1,10 @@
+* metap
+
+Metap provides metaclass propagation along class inheritance structure
+in Common Lisp
+
+|---------+-----------------------------------------|
+| source  | git:https://github.com/hipeta/metap.git |
+| commit  | 66e0433                                 |
+| systems | metap                                   |
+|---------+-----------------------------------------|
